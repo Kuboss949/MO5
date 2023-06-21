@@ -13,3 +13,13 @@ Uwaga: należy zaimplementować wariant dekompozycji omawiany na wykładzie.
 Program należy zrealizować w postaci dwóch odrębnych procedur: jednej, która operuje wyłącznie
 na macierzy A, i drugiej, która operuje wyłącznie na wektorze b, korzystając z wyników działania
 procedury pierwszej.
+
+matrix.txt:
+1 -20 30 -4
+2 -40 -6 50
+9 -180 11 -12
+-16 15 -140 13
+35
+104
+-366
+-354
