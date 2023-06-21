@@ -1,16 +1,10 @@
 # MO5
 
-Dana jest macierz A
-1 -20 30 -4
-2 -40 -6 50
-9 -180 11 -12
--16 15 -140 13
+Dana jest macierz 
 
-oraz wektor b
-35
-104
--366
--54
+![obraz](https://github.com/Kuboss949/MO5/assets/101654879/2d959c6b-9847-4400-ab28-7636db67f821)
+
+
 
 Napisz program w języku „C/C++”, realizujący dekompozycję LU macierzy A, przy zastosowaniu
 eliminacji Gaussa z częściowym wyborem elementu podstawowego, a następnie rozwiązujący układ
